@@ -10,7 +10,7 @@ int main(int argc, char* argv[]){
     String imageInput = argv[1]; //imagem a ser copiada
     String imageOutput = argv[2]; //imagem onde fica a cópia
     Mat imageIn = imread(imageInput, IMREAD_COLOR); 
-    Mat imageOut = Mat::zeros(Size(imageIn.rows, imageIn.cols), imageIn.type()); //inicializaçao do objeto out (a zeros)
+    Mat imageOut = Mat::zeros(Size(imageIn.rows, imageIn.cols), imageIn.type()); //inicializaçao do objeto out (Mat é inicializada a zeros)
 
     int width = imageIn.size().width; //columns
     int heigth = imageIn.size().height; //rows
