@@ -2,13 +2,13 @@
 
 ---Exercises Done ---
 
-2 - Check
-3 - Check
-4 - Check
-5 - Check (Saudade dar push)
-6 - Check (Saudade dar push)
-7 - Loading...
-8 - Check...
-9 - Loading
-10- Loading
-11- Loading
+2 - Check <br />
+3 - Check <br />
+4 - Check <br />
+5 - Check <br />
+6 - Check <br />
+7 - Loading... <br />
+8 - Check... <br />
+9 - Loading <br />
+10- Loading <br />
+11- Loading <br />
