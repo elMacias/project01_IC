@@ -8,7 +8,7 @@
 5 - Check <br />
 6 - Check <br />
 7 - Loading... <br />
-8 - Check... <br />
-9 - Loading <br />
-10- Loading <br />
-11- Loading <br />
+8 - Check <br />
+9 - Check <br />
+10- Check <br />
+11- Loading... <br />
